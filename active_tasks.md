@@ -104,6 +104,12 @@ _No unblocked work. Items below stay blocked until ClementFranz sends a file or 
 
 ## 2. Tasks working on parallel
 
+_No items currently in progress._
+
+---
+
+## 3. Done tasks
+
 ### T-040: Push latest site to GitHub
 - **Task title:** Upload the latest site to GitHub
 - **Task detailed description:** ClementFranz asked to upload the latest site to `https://github.com/clementfranz/va-portfolio-2026-a.git`. The local project is not a git repo yet, so this includes initializing git, committing the current site, and pushing to that remote.
@@ -113,14 +119,10 @@ _No unblocked work. Items below stay blocked until ClementFranz sends a file or 
 - **TS delegated:** 2026-09-14 23:42 +08
 - **TS expected done:** 2026-09-14 23:55 +08
 - **TS working start:** 2026-09-14 23:42 +08
-- **TS working done:** -
-- **TS done:** -
+- **TS working done:** 2026-09-14 23:47 +08
+- **TS done:** 2026-09-14 23:47 +08
 - **TS approved:** -
-- **Current status:** `working`
-
----
-
-## 3. Done tasks
+- **Current status:** `done`
 
 ### T-039: Remove What I do card blurbs
 - **Task title:** Remove the brief descriptions from What I do cards
