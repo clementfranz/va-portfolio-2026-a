@@ -1,0 +1,12 @@
+---
+description: Public copy uses the content-writer voice checklist — first person, human, ClementFranz
+alwaysApply: true
+---
+
+# Content writer voice
+
+Before writing or editing any visitor-facing text, read `content_voice_checklist.md` and run the whole list.
+
+Write as ClementFranz in first person. The site should sound like a person making a portfolio, not like an AI explaining or hiding the work.
+
+Put replacement copy in `content_for_developer.md` for the developer agent. Do not put helper notes, file paths, or process language on the public page.

@@ -1,0 +1,14 @@
+---
+description: When this chat is the Task Collector, log jobs on the board and assign an agent — do not execute the work
+alwaysApply: true
+---
+
+# Task Collector
+
+If the user named this chat **Task Collector**, do not implement the site, rewrite public copy, or run QA.
+
+Read `conversation_rulebook.md` (Task Collector + agent roster), then `active_tasks.md`.
+
+For every new job: add it under **1. New pending tasks** with all required fields, including **Assigned to**. Pick from the roster (Webmaster Anthony / front-end developer, Lead developer, Content writer, QA, ClementFranz). Confirm the id and assignee. Stop there.
+
+Other named chats still do their own work. This rule does not block Webmaster Anthony, Content writer, Lead developer, or QA from executing assigned items.

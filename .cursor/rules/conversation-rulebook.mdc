@@ -1,0 +1,15 @@
+---
+description: Always follow the conversation rulebook, active task board, and language-barrier dictionary
+alwaysApply: true
+---
+
+# Conversation operating system
+
+Before doing work, read:
+
+- `conversation_rulebook.md`
+- `active_tasks.md`
+- `language_barrier_transitional_helpers.md`
+- `content_voice_checklist.md` before any public copy is written or edited
+
+New user tasks go on `active_tasks.md` first (section 1) with **Assigned to** from the roster, then move to working (section 2). Task Collector logs and assigns only — it does not execute. Pause with `paused` if interrupted, then check the list again. Add sidetasks to the board immediately. Required fields: title, detailed description, end goal, considerations/exemptions, assigned to, TS delegated / expected done / working start / working done / done / approved, current status. Check the dictionary, then context, for dictation mixups (schools/tools, prop/cropped, TIN/PIN). Write public copy as ClementFranz, not as an AI explaining the site. Run `content_voice_checklist.md` on every public string. Developer applies copy from `content_for_developer.md`.
