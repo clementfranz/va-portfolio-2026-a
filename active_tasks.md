@@ -110,6 +110,20 @@ _No items currently in progress._
 
 ## 3. Done tasks
 
+### T-041: Default Git branch is dev
+- **Task title:** Always merge and push to `dev` unless told to use `main`
+- **Task detailed description:** ClementFranz said that from now on, work should merge to `dev`. Only merge to `main` when they explicitly say so in that session. Merging to `main` deploys the Hostinger virtual application.
+- **Task end goal:** Future sessions default to `dev`. `main` stays untouched unless ClementFranz asks for a production deploy.
+- **Task considerations and exemptions:** Do not invent metrics or employer names. Do not merge or push to `main` as part of this item. Do not force-push. Do not change git config.
+- **Assigned to:** Webmaster Anthony
+- **TS delegated:** 2026-09-15 05:11 +08
+- **TS expected done:** 2026-09-15 05:20 +08
+- **TS working start:** 2026-09-15 05:11 +08
+- **TS working done:** 2026-09-15 05:14 +08
+- **TS done:** 2026-09-15 05:14 +08
+- **TS approved:** -
+- **Current status:** `done`
+
 ### T-040: Push latest site to GitHub
 - **Task title:** Upload the latest site to GitHub
 - **Task detailed description:** ClementFranz asked to upload the latest site to `https://github.com/clementfranz/va-portfolio-2026-a.git`. The local project is not a git repo yet, so this includes initializing git, committing the current site, and pushing to that remote.

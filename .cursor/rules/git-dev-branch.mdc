@@ -1,0 +1,12 @@
+---
+description: Merge and push to dev by default; main only when ClementFranz explicitly asks (main deploys)
+alwaysApply: true
+---
+
+# Git branch: default `dev`
+
+- **Default:** commit, merge, and push to `dev`.
+- **`main` is production.** Merging or pushing to `main` deploys the Hostinger virtual application. Do that only when ClementFranz explicitly says to merge/push to `main` in that session.
+- Uploads, “put it on GitHub”, and routine site work go to `dev`, not `main`.
+- Do not merge `dev` into `main` as a courtesy. Do not push `main` because it is the current local branch.
+- If `dev` is missing locally, create it from the latest `origin/dev` (or from `main` if `dev` does not exist yet), then keep working there.

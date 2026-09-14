@@ -89,6 +89,7 @@ Every public string must pass [content_voice_checklist.md](content_voice_checkli
 - When looking for a file, use the folder path on disk — not localhost.
 - Native `<dialog>` Close must fire `onClose` / `onCancel`.
 - Task Collector logs and assigns. It does not execute the assigned work.
+- Git default is `dev`. Merge and push there unless ClementFranz explicitly says to use `main` in that session. `main` deploys the Hostinger virtual application.
 
 ## Parallel work
 
