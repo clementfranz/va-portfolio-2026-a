@@ -110,6 +110,20 @@ _No items currently in progress._
 
 ## 3. Done tasks
 
+### T-042: Redesign footer to the mock
+- **Task title:** Restyle the footer like the Let's talk mock
+- **Task detailed description:** ClementFranz sent a footer/CTA mock and a planet background. Use the hero portrait on the front layer and the second image as the background. On mobile, rotate the background 90 degrees so the colored planets sit at the bottom and the white area stays at the top, with the portrait still in front. References: `image-task/T-042-footer-reference.jpg`, `image-task/T-042-footer-background.jpg`.
+- **Task end goal:** The live footer matches the mock layout: copy on the left, Email me + logos + email + location, portrait over the planet background. Mobile background is rotated as specified.
+- **Task considerations and exemptions:** Do not invent metrics or employer names. Do not paste mock slogans (REAL SUPPORT / REAL PROGRESS, OPERATIONS AUTOMATION SUPPORT GROWTH, Efficient. Reliable. Together.) or the 24-hour response claim. Keep existing contact title, Let's talk, Email me, email, location, and the stock-photo line. Do not chroma-key the portrait PNG. Do not merge to `main`.
+- **Assigned to:** Webmaster Anthony
+- **TS delegated:** 2026-09-15 05:18 +08
+- **TS expected done:** 2026-09-15 05:50 +08
+- **TS working start:** 2026-09-15 05:18 +08
+- **TS working done:** 2026-09-15 05:28 +08
+- **TS done:** 2026-09-15 05:28 +08
+- **TS approved:** -
+- **Current status:** `done`
+
 ### T-041: Default Git branch is dev
 - **Task title:** Always merge and push to `dev` unless told to use `main`
 - **Task detailed description:** ClementFranz said that from now on, work should merge to `dev`. Only merge to `main` when they explicitly say so in that session. Merging to `main` deploys the Hostinger virtual application.

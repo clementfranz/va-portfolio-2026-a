@@ -14,6 +14,7 @@ export const profile = {
   resumePath: "/assets/resume.pdf",
   portraitPath: "/assets/portrait.png",
   heroBackgroundPath: "/assets/hero-background.jpg",
+  footerBackgroundPath: "/assets/footer-background.jpg",
   seoTitle:
     "ClementFranz — Logistics & Operations VA | Automation & Technical Support",
   seoDescription:

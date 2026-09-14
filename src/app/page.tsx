@@ -12,7 +12,6 @@ import { CreativeSection } from "@/components/CreativeSection";
 import { SkillsGrid } from "@/components/SkillsGrid";
 import { ResumeCTA } from "@/components/ResumeCTA";
 import { PersonalSection } from "@/components/PersonalSection";
-import { ContactSection } from "@/components/ContactSection";
 import { Footer } from "@/components/Footer";
 import { Reveal } from "@/components/Reveal";
 
@@ -59,9 +58,6 @@ export default function Home() {
           </Reveal>
           <Reveal>
             <PersonalSection />
-          </Reveal>
-          <Reveal>
-            <ContactSection />
           </Reveal>
         </main>
         <Footer />
